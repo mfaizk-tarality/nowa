@@ -47,7 +47,7 @@ const TimeLine = () => {
       >
         <div className="mainTitle flex justify-center items-center">
           <div className="h-[500px] min-w-fit flex items-center justify-center text-center">
-            <p className="text-transparent bg-clip-text bg-[linear-gradient(146deg,rgb(251,199,102)_0%,rgb(255,255,255)_66.38%)]  font-Jakarta font-semibold text-nowrap lg:text-7xl text-4xl ">
+            <p className="text-transparent bg-clip-text bg-[linear-gradient(146deg,rgb(0,255,169)_0%,rgb(255,255,255)_66.38%)]  font-Jakarta font-semibold text-nowrap lg:text-7xl text-4xl ">
               Is This You?
             </p>
           </div>

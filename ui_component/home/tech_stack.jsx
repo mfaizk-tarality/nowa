@@ -20,7 +20,7 @@ const TechStack = () => {
           ref={containerRef}
         >
           <div className="min-w-fit flex items-start justify-start w-full">
-            <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(251,199,102)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-4xl md:text-6xl md:ml-60">
+            <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(0,255,169)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-4xl md:text-6xl md:ml-60">
               Our Tech <br />
               Stack
             </p>
@@ -46,7 +46,7 @@ const TechStack = () => {
                   </p>
                   <img src={item?.img} alt="" className="h-40" />
                   <div className="w-full flex items-end justify-end ">
-                    <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(251,199,102)_32%,rgb(255,255,255)_90.38%)] font-Jakarta font-semibold">
+                    <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(0,255,169)_32%,rgb(255,255,255)_90.38%)] font-Jakarta font-semibold">
                       {item?.title}
                     </p>
                   </div>

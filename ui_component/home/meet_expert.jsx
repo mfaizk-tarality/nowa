@@ -8,7 +8,7 @@ const MeetExpert = () => {
       <div>
         <div className="grid grid-cols-12 text-white">
           <p className="text-white/50 col-span-12 lg:col-span-2">[OUR TEAM]</p>
-          <p className="col-span-12 lg:col-span-6 text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(251,199,102)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-4xl md:text-6xl ">
+          <p className="col-span-12 lg:col-span-6 text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(0,255,169)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-4xl md:text-6xl ">
             Meet the Experts
           </p>
           <p className="col-span-12 lg:col-span-4">

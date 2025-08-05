@@ -8,7 +8,7 @@ const FAQ = () => {
     <Container className={"mt-20 py-20"}>
       <div className="grid grid-cols-12 w-full lg:gap-10">
         <div className="col-span-12 lg:col-span-4 flex gap-4 flex-col">
-          <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(251,199,102)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-4xl md:text-6xl ">
+          <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(0,255,169)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-4xl md:text-6xl ">
             Meet the Experts
           </p>
           <p className="text-white/50">

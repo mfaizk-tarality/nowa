@@ -46,13 +46,14 @@
   --animate-marquee-vertical: marquee-vertical var(--duration) linear infinite;
   /* customColor-start */
   --color-tancolor: rgb(207, 28, 123);
-  --color-background: rgb(11 14 19);
+  --color-background: rgb(11, 14, 19);
   --color-subbg: rgb(46, 48, 52);
   --color-title: rgb(255, 255, 255);
   --color-description: rgb(154, 161, 173);
   --color-card: rgb(45, 46, 51);
   --color-stroke: rgb(62, 64, 71);
   --color-tanborder: rgb(207, 28, 123);
+  --color-noworytext:rgb(0, 255, 169)
   /* customColor-end */
   --font-Jakarta: "Bricolage Grotesque", sans-serif;
   --animate-spotlight: spotlight 2s ease 0.75s 1 forwards;

@@ -133,7 +133,7 @@ export default function Carousel({ slides }) {
       <div className="flex justify-center w-full py-10 relative flex-col lg:flex-row gap-4 lg:gap-0">
         <p className="text-white/50  font-Jakarta">[Testimonial]</p>
 
-        <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(251,199,102)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-4xl md:text-6xl lg:ml-48">
+        <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(0,255,169)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-4xl md:text-6xl lg:ml-48">
           See Our Work in Action
         </p>
         <div className="flex flex-row lg:ml-32">

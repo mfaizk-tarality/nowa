@@ -29,14 +29,14 @@ const PoweredWorkflow = () => {
 
   return (
     <Container className={"relative "}>
-      <Spotlight fill="#9e60a7" />
+      <Spotlight fill="rgb(0 255 169)" />
       <div className="grid grid-cols-12" ref={container}>
         <div className="col-span-12 md:col-span-2">
           <p className="text-gray-600">[OUR SOLUTIONS]</p>
         </div>
 
         <div className="col-span-12 md:col-span-6">
-          <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(251,199,102)_32%,rgb(255,255,255)_90.38%)] text-6xl font-[500] font-Jakarta">
+          <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(0,255,169)_32%,rgb(255,255,255)_90.38%)] text-6xl font-[500] font-Jakarta">
             Building AI-Powered <br /> Workflow
           </p>
         </div>
@@ -58,7 +58,7 @@ const PoweredWorkflow = () => {
                 idx == 0
                   ? "col-span-12 md:col-span-8"
                   : "col-span-12 md:col-span-4"
-              } border border-white/10 rounded-2xl bg-gradient-to-tr from-[#ffffff34] to-[#FFFFFF0A] cards `}
+              } border border-white/10 rounded-2xl cards `}
             >
               <img src={item?.img} alt="" className="" />
               <div className="p-6">

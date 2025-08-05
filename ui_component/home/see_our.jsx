@@ -43,7 +43,7 @@ const SeeOur = () => {
         >
           <div className="see_mainTitle flex justify-center items-center">
             <div className="h-[500px] min-w-fit flex items-center justify-center text-center">
-              <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(251,199,102)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-4xl md:text-6xl ">
+              <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(0,255,169)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-4xl md:text-6xl ">
                 See Our Work in Action
               </p>
             </div>

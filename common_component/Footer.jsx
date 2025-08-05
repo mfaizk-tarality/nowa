@@ -23,14 +23,14 @@ export const Footer = () => {
             <div className="w-full flex flex-col items-start gap-4">
               <div className="flex flex-row items-center justify-center gap-4">
                 <p className="text-white/50 text-sm">[CALL US]</p>
-                <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(251,199,102)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-xl">
+                <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(0,255,169)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-xl">
                   +1234 567 89
                 </p>
               </div>
               <div className="flex flex-row items-center justify-center gap-4">
                 <p className="text-white/50 text-sm">[MAIL US]</p>
-                <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(251,199,102)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-4xl">
-                  hello@foxchain.com
+                <p className="text-transparent bg-clip-text bg-[linear-gradient(2766deg,rgb(0,255,169)_32%,rgb(255,255,255)_90.38%)] font-Jakarta text-4xl">
+                  hello@nowa.com
                 </p>
               </div>
             </div>
@@ -38,7 +38,7 @@ export const Footer = () => {
               <p className="text-white font-Jakarta text-xs">
                 <span className="text-white/50">
                   {" "}
-                  @2025 foxchain. All Rights Reserved
+                  @2025 nowa. All Rights Reserved
                 </span>{" "}
                 Privacy Policy Terms and Conditions
               </p>
