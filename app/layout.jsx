@@ -45,17 +45,17 @@ export const metadata = {
   },
 
   openGraph: {
-    title: "FoxChain | Secure Blockchain Solutions",
+    title: "NOWA | Secure Blockchain Solutions",
     description:
-      "Discover FoxChain: Pioneering secure and efficient blockchain technology. Experience unparalleled security and efficiency.",
+      "Discover NOWA: Pioneering secure and efficient blockchain technology. Experience unparalleled security and efficiency.",
     url: "https://ladyfox.vercel.app",
-    siteName: "FoxChain",
+    siteName: "NOWA",
     images: [
       {
-        url: "https://ladyfox.vercel.app/logo.svg",
+        // url: "https://ladyfox.vercel.app/logo.svg",
         width: 1200,
         height: 630,
-        alt: "FoxChain Blockchain Platform and Logo",
+        alt: "NOWA Blockchain Platform and Logo",
         type: "image/jpeg",
       },
     ],
@@ -65,16 +65,16 @@ export const metadata = {
 
   twitter: {
     card: "summary_large_image",
-    site: "@YourFoxChainHandle",
+    // site: "@YourNOWAHandle",
     creator: "@YourPersonalHandle",
-    title: "FoxChain | Secure Blockchain Solutions",
+    title: "NOWA | Secure Blockchain Solutions",
     description:
-      "Pioneering secure and efficient blockchain technology. Experience unparalleled security and efficiency with FoxChain.",
+      "Pioneering secure and efficient blockchain technology. Experience unparalleled security and efficiency with NOWA.",
     images: ["https://ladyfox.vercel.app/logo.svg"],
   },
 
-  authors: [{ name: "FoxChain Team", url: "https://ladyfox.vercel.app" }],
-  creator: "FoxChain Development",
+  // authors: [{ name: "NOWA Team", url: "https://ladyfox.vercel.app" }],
+  creator: "NOWA Development",
 
   robots: {
     index: true,
