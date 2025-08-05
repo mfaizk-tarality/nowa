@@ -72,7 +72,7 @@ const TopBrand = () => {
             return (
               <div
                 key={idx}
-                className="col-span-12 lg:col-span-6 xl:col-span-3 bg-gradient-to-br from-[#00ffaa96] via-[#00FFA9] text-white relative py-8 px-4 border border-white/10 rounded-4xl overflow-clip cards_brand"
+                className="col-span-12 lg:col-span-6 xl:col-span-3 bg-card text-white relative py-8 px-4 border border-white/10 rounded-4xl overflow-clip cards_brand"
               >
                 <p className="font-Jakarta text-white/50 text-xs">
                   {item?.heading}

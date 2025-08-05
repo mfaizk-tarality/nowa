@@ -26,7 +26,7 @@ const ContactUs = () => {
                 type="text"
                 name="name"
                 id=""
-                className="bg-[#000319] h-12 p-2 rounded-lg border border-white/10 outline-none"
+                className="bg-[#19251f]/10 h-12 p-2 rounded-lg border border-white/10 outline-none"
                 placeholder="Jane Smith"
               />
             </div>
@@ -38,7 +38,7 @@ const ContactUs = () => {
                 type="text"
                 name="email"
                 id=""
-                className="bg-[#000319] h-12 p-2 rounded-lg border border-white/10 outline-none"
+                className="bg-[#19251f]/10 h-12 p-2 rounded-lg border border-white/10 outline-none"
                 placeholder="mail@site.com"
               />
             </div>
@@ -50,7 +50,7 @@ const ContactUs = () => {
                 type="text"
                 name="message"
                 id=""
-                className="bg-[#000319] p-2 rounded-lg border border-white/10 outline-none"
+                className="bg-[#19251f]/10 p-2 rounded-lg border border-white/10 outline-none"
                 placeholder="Your message"
                 rows={4}
               />

@@ -17,7 +17,7 @@ import ContactUs from "@/ui_component/home/contact_us";
 gsap.registerPlugin(useGSAP, ScrollTrigger, SplitText);
 export default function MainHome() {
   return (
-    <div className="bg-[#010111]">
+    <div className="bg-[#0F1A14]">
       <div className="relative  flex items-center justify-center flex-col ">
         <HeroSection />
         <TimeLine />

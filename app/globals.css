@@ -53,7 +53,8 @@
   --color-card: rgb(45, 46, 51);
   --color-stroke: rgb(62, 64, 71);
   --color-tanborder: rgb(207, 28, 123);
-  --color-noworytext:rgb(0, 255, 169)
+  --color-noworytext: rgb(0, 255, 169);
+  --color-bgcard: rgb(18, 24, 31);
   /* customColor-end */
   --font-Jakarta: "Bricolage Grotesque", sans-serif;
   --animate-spotlight: spotlight 2s ease 0.75s 1 forwards;

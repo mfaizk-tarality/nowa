@@ -36,7 +36,7 @@ export function TopBar({ children }) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   return (
-    <div className="relative w-full bg-gradient-to-tl from-[#00010db0] to-background  z-30">
+    <div className="relative w-full bg-[#0F1A14]  z-30">
       <Navbar>
         {/* Desktop Navigation */}
         <NavBody>

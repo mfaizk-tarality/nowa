@@ -29,13 +29,13 @@ const SeeOur = () => {
   );
   return (
     <div className="relative">
-      <Particles
+      {/* <Particles
         className="absolute inset-0 z-0"
         quantity={500}
         ease={80}
         color={"#fff"}
         refresh
-      />
+      /> */}
       <Container className={"relative"}>
         <div
           className="flex items-center justify-center flex-col overflow-hidden"

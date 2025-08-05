@@ -9,7 +9,7 @@ import { Particles } from "@/components/magicui/particles";
 
 export const Footer = () => {
   return (
-    <div className="bg-[#010111] relative  py-40 lg:pb-96 overflow-clip">
+    <div className="bg-[#0F1A14] relative  py-40 lg:pb-96 overflow-clip">
       <Particles
         className="absolute inset-0 z-0"
         quantity={100}

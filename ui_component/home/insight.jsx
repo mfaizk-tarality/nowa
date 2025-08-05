@@ -27,7 +27,7 @@ const Insight = () => {
                 key={idx}
                 className={`${
                   idx == 0 ? "col-span-12" : "col-span-12 lg:col-span-6"
-                } grid grid-cols-12 bg-gradient-to-tl from-[#191C30] to-[#0B0E23] group outline hover:outline-4 hover:outline-[#52478b] outline-white/10 rounded-4xl overflow-clip transition-all delay-200 duration-200 cursor-pointer`}
+                } grid grid-cols-12 bg-card group outline hover:outline-4 hover:outline-noworytext outline-white/10 rounded-4xl overflow-clip transition-all delay-200 duration-200 cursor-pointer`}
               >
                 <div className="col-span-12 lg:col-span-6">
                   <img

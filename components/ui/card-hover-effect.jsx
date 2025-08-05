@@ -34,15 +34,15 @@ export const HoverEffect = ({ items, className }) => {
               />
             )}
           </AnimatePresence>
-          <div className="w-full grid grid-cols-12 min-h-96 relative z-10 bg-gradient-to-tl from-[#191c30] via-[#00FFA9] rounded-3xl p-10 gap-6 md:gap-0">
+          <div className="w-full grid grid-cols-12 min-h-96 relative z-10 bg-card rounded-3xl p-10 gap-6 md:gap-0">
             <div className="col-span-12 md:col-span-8 ">
-              <p className="text-black text-4xl font-Jakarta md:w-[40%]">
-                <span className="text-black/50 text-lg hidden md:flex">
+              <p className="text-white text-4xl font-Jakarta md:w-[40%]">
+                <span className="text-white/50 text-lg hidden md:flex">
                   [{idx + 1}]
                 </span>{" "}
                 {item?.title}
               </p>
-              <p className="text-black/50 mt-20">{item?.subDescription}</p>
+              <p className="text-white/50 mt-20">{item?.subDescription}</p>
             </div>
             <div className="col-span-12 md:col-span-4 flex items-center justify-center">
               <img src={item?.img} alt="" />
@@ -52,7 +52,7 @@ export const HoverEffect = ({ items, className }) => {
                 return (
                   <div
                     key={idx}
-                    className="text-black/50 border min-w-24 text-center py-2 rounded-full border-white/50"
+                    className="text-white/50 border min-w-24 text-center py-2 rounded-full border-white/50"
                   >
                     <p className="font-Jakarta text-xs">{item}</p>
                   </div>

@@ -13,10 +13,10 @@ const HeroSection = () => {
         color={"#fff"}
         refresh
       />
-      <Spotlight
+      {/* <Spotlight
         className="-top-40 left-0 md:-top-20 md:left-60 z-50"
         fill="rgb(0 255 169)"
-      />
+      /> */}
       <div className="2xl:col-start-3 2xl:col-span-5 md:col-span-6 col-span-12 flex justify-center xl:items-start items-center h-full w-full  flex-col gap-8 pb-72">
         <p className="text-transparent bg-clip-text bg-[linear-gradient(146deg,rgb(255,255,255)_32%,rgb(0,255,169)_90.38%)] text-7xl font-[500] font-Jakarta text-center lg:text-start lg:mt-60">
           Turning Business into AI-Powered Machine.

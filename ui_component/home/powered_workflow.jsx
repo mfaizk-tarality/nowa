@@ -29,7 +29,7 @@ const PoweredWorkflow = () => {
 
   return (
     <Container className={"relative "}>
-      <Spotlight fill="rgb(0 255 169)" />
+      {/* <Spotlight fill="rgb(0 255 169)" /> */}
       <div className="grid grid-cols-12" ref={container}>
         <div className="col-span-12 md:col-span-2">
           <p className="text-gray-600">[OUR SOLUTIONS]</p>
@@ -58,7 +58,7 @@ const PoweredWorkflow = () => {
                 idx == 0
                   ? "col-span-12 md:col-span-8"
                   : "col-span-12 md:col-span-4"
-              } border border-white/10 rounded-2xl cards `}
+              } border border-white/10 rounded-2xl cards bg-card/90 hover:bg-card`}
             >
               <img src={item?.img} alt="" className="" />
               <div className="p-6">
